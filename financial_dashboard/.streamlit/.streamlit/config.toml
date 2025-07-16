@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0071B8"          # Std Bank “Nice blue”
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F3F6"
+textColor = "#0A1F44"
+font = "sans serif"
